@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+ 
+}
+h2{
+  font-size: 22px;
+}
+
+
+#app{
+  margin-bottom: 35px;
+  font-size: 17px !important;
+  font-weight: 400;
+}
+
+#appData{
+  font-size: 17px !important;
+  font-weight: 400;
+}
